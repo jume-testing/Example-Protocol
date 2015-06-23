@@ -1,14 +1,8 @@
 {
   "html": {
-    "use": false
+    "use": true
   },
   "cpp11": {
-    "use": false
-  },
-  "c89": {
-    "use": false
-  },
-  "ws": {
-    "use": false
+    "use": true
   }
 }
