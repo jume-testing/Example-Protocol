@@ -4,11 +4,5 @@
   },
   "cpp11": {
     "use": true
-  },
-  "c89": {
-    "use": false
-  },
-  "ws": {
-    "use": false
   }
 }
